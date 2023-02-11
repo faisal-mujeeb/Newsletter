@@ -5,4 +5,4 @@ Here, when you signed up with the email, the mail gets stored in Mailchimp's ser
 
 A newsletter project built using the MERN stack, providing a platform to manage and distribute newsletters to subscribers.
 
-#Features
+# Features
