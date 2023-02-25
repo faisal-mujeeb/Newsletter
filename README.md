@@ -12,3 +12,5 @@ Create and send newsletters to subscribers
 Schedule newsletters for later delivery
 Customize newsletters with images and text
 Monitor the success of each newsletter with detailed analytic
+
+These are just a few of the features that a newsletter website built using MERN stack could have. Depending on the specific requirements and goals of the website, there may be additional features that are needed.
